@@ -1,0 +1,5 @@
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp10_NameSpace\obj\Debug\net6.0\ConsoleApp10_NameSpace.csproj.AssemblyReference.cache
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp10_NameSpace\obj\Debug\net6.0\ConsoleApp10_NameSpace.GeneratedMSBuildEditorConfig.editorconfig
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp10_NameSpace\obj\Debug\net6.0\ConsoleApp10_NameSpace.AssemblyInfoInputs.cache
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp10_NameSpace\obj\Debug\net6.0\ConsoleApp10_NameSpace.AssemblyInfo.cs
+G:\soft were\Microsoft Visual Studio\project2019c#\TopLearn\ConsoleApp10_NameSpace\obj\Debug\net6.0\ConsoleApp10_NameSpace.csproj.CoreCompileInputs.cache
